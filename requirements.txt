@@ -1,0 +1,14 @@
+EoN          1.2
+fqdn         1.5.1
+matplotlib   3.8.2
+networkx     3.2.1
+numpy        1.26.3
+pandas       2.2.2
+scikit-learn 1.5.1
+seaborn      0.13.2
+sympy        1.12
+tensorboard  2.15.1
+torch        2.1.2+cu121
+torch_geometric    2.5.3
+torchvision  0.16.2+cu121
+tqdm         4.64.1
