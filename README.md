@@ -19,7 +19,7 @@
 简要介绍仓库中各个文件的功能：
 - `main.py`: 主程序文件。
 - `model.py`: 模型定义文件。
-- `data_preprocessing.py`: 数据预处理文件。
+- `data_loader/dataloader.py`: 数据预处理文件。
 - `requirements.txt`: 所需库和依赖。
   
 ## 实验步骤
