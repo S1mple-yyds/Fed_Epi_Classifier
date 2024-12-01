@@ -1,6 +1,6 @@
 # fed
 
-# 论文实验 - fed-epi-classifer
+# 论文实验 - Towards_federated_prediction_for_epidemics_on_networks
 
 ## 背景
 简要介绍你的研究背景、实验目的以及论文的核心内容。
