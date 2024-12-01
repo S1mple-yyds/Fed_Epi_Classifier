@@ -1,4 +1,6 @@
 # the code and dataset will be published once the paper is accepted
+# Chenpeng Fu、Tong Li、Hao Chen、Wen Du、Zhidong He∗  
+# DS Information Technology Co., Ltd.
 # 论文实验 - Towards_federated_prediction_for_epidemics_on_networks
 
 ## 背景
