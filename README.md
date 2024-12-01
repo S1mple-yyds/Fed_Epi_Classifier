@@ -7,8 +7,8 @@
 
 ## 环境设置
 列出实验所需的软件环境、依赖和库：
-- Python 3.x
-- TensorFlow / PyTorch / Keras 等
+- Python 3.10.8
+- Torch 2.1.2+cu121 / torch_geometric 2.5.3 /  等
 - 其他依赖：`pip install -r requirements.txt`
 
 ## 数据集
@@ -28,3 +28,11 @@
    ```bash
    git clone https://github.com/yourusername/your-repository.git
    cd your-repository
+2. 安装依赖：
+   ```bash
+   pip install -r requirements.txt
+3. 运行实验：
+   ```bash
+   python main.py
+
+
