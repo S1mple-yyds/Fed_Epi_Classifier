@@ -1,6 +1,8 @@
-#  Article- Towards_federated_prediction_for_epidemics_on_networks
-## Chenpeng Fu、Tong Li、Hao Chen、Wen Du、Zhidong He∗  
-## DS Information Technology Co., Ltd.
+#  Article- Towards_the_efficacy_of_Federated_Learning_for_Epidemic_Prediction_on_Networks
+## Chenpeng Fu, Tong Li, Hao Chen, Tianheng Xu, Wen Du, Zhidong He∗  
+## The First Research Institute of Telecommunication Technology
+## China Information and Communication Technology Group CO.,Ltd
+## Shanghai Advanced Research Institute, Chinese Academy of Sciences
 ### Background
 A privacy-preserving FL framework for node-level epidemic prediction.
 
