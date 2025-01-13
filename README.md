@@ -1,6 +1,6 @@
-#  Article- Towards_the_efficacy_of_Federated_Learning_for_Epidemic_Prediction_on_Networks
+#  Article- Towards the efficacy of federated prediction for epidemics on networks
 ## Chenpeng Fu, Tong Li, Hao Chen, Tianheng Xu, Wen Du, Zhidong He∗  
-## The First Research Institute of Telecommunication Technology
+## The First Research Institute of Telecommunications Technology
 ## China Information and Communication Technology Group CO.,Ltd
 ## Shanghai Advanced Research Institute, Chinese Academy of Sciences
 ### Background
